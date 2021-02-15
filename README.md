@@ -1,4 +1,4 @@
-# Heroes of Pymoli
+
 ## Summary
 * The following conclusions can be reached from the analysis:
   * Of the 1163 active players, the vast majority are male (84%). There also exists, a smaller, but notable proportion of female players (14%).
