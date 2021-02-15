@@ -6,10 +6,11 @@
   * Users tend to spend around $4.00.
   * Oathbreaker, Last Hope of the Breaking Storm is the most profitable item with a total purchase value of around $50.
   * The 20-24 age group is the largest age demographic and that age group tends to spend among the most per person (third most of all the age demographics). Under 10 years olds and 35-39 year olds tend to spend a little more per person, but they are also substantially smaller groups.
-### Files
+
+Files
 * The "heroes_of_pymoli.ipynb" Jupyter Notebook uses Pandas to conduct an exploratory analysis of the game data
 * The "purchase_data.csv" file in the "Resources" folder contains the raw data for the Heroes of Pymoli game
-## Specific Metrics Studied 
+## 
 Pandas is used to uncover the following information:
 * Player Count
   * Total Number of Players
