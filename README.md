@@ -4,7 +4,7 @@
   * Of the 1163 active players, the vast majority are male (84%). There also exists, a smaller, but notable proportion of female players (14%).
   * Our peak age demographic falls between 20-24 (44.8%) with secondary groups falling between 15-19 (18.60%) and 25-29 (13.4%).
   * Users tend to spend around $4.00.
-  * Oathbreaker, Last Hope of the Breaking Storm is the most profitable item with a total purchase value of around $50.
+  * Final Critic is the most profitable item with a total purchase value of $59.99.
   * The 20-24 age group is the largest age demographic and that age group tends to spend among the most per person (third most of all the age demographics). Under 10 years olds and 35-39 year olds tend to spend a little more per person, but they are also substantially smaller groups.
 
 Files
